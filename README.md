@@ -1,2 +1,2 @@
-# branding
-Branding Guidelines
+# Branding Guidelines
+
